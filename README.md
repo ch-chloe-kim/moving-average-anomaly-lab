@@ -2,7 +2,7 @@
 
 > 명절 주문량 데이터에서 급증·급감을 찾아내는 **이동평균 기반 이상 탐지** 알고리즘을 단계별로 체험하는 웹 시뮬레이터
 
-**▶ 시뮬레이터 바로 열기: https://<GitHub아이디>.github.io/moving-average-anomaly-lab/**
+**▶ 시뮬레이터 바로 열기: https://ch-chloe-kim.github.io/moving-average-anomaly-lab/**
 
 ![실행 과정](screenshots/04_실행과정.gif)
 
