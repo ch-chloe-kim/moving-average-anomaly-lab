@@ -1,0 +1,12 @@
+# 개인정보(학번) 포함 — 제출용 원본은 올리지 않음 (공개용: docs/보고서_공개용.pdf)
+docs/보고서.pdf
+docs/report.html
+
+# 수업 자료·이전 후보
+docs/00_과제명세서.md
+docs/archive/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
